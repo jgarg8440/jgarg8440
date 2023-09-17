@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Jatin Garg</h1>
 <h3 align="center">With a profound passion for computer programming and information technology, I have dedicated years to perfecting my craft. My expertise lies in Data Structures and Algorithms, specializing in Java. Proficient in database management, I bring innovation to the tech industry, striving to make a meaningful impact through my work. My professional journey reflects a relentless pursuit of excellence, always seeking opportunities to contribute to the ever-evolving field of technology.</h3>
 
