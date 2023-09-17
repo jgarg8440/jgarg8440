@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Jatin Garg</h1>
-<h3 align="center">With a profound passion for computer programming and information technology, I have dedicated years to perfecting my craft. My expertise lies in Data Structures and Algorithms, specializing in Java. Proficient in database management, I bring innovation to the tech industry, striving to make a meaningful impact through my work. My professional journey reflects a relentless pursuit of excellence, always seeking opportunities to contribute to the ever-evolving field of technology.</h3>
+<h3 align="center">I have dedicated years to perfecting my craft in computer programming and information technology. My expertise lies in Data Structures and Algorithms, specializing in Java. Proficient in database management, I bring innovation to the tech industry, striving to make a meaningful impact through my work. My professional journey reflects a relentless pursuit of excellence, always seeking opportunities to contribute to the ever-evolving field of technology.</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jgarg8440&label=Profile%20views&color=0e75b6&style=flat" alt="jgarg8440" /> </p>
