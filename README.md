@@ -1,4 +1,4 @@
-
+![logo](https://github.com/jgarg8440/jgarg8440/blob/main/Blue%20And%20Green%20Professional%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Jatin Garg</h1>
 <h3 align="center">I have dedicated years to perfecting my craft in computer programming and information technology. My expertise lies in Data Structures and Algorithms, specializing in Java. Proficient in database management, I bring innovation to the tech industry, striving to make a meaningful impact through my work. My professional journey reflects a relentless pursuit of excellence, always seeking opportunities to contribute to the ever-evolving field of technology.</h3>
 
